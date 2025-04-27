@@ -2,7 +2,6 @@
 """
 Created on Sat Apr 19 22:14:00 2025
 
-@author: Nongnuch
 """
 
 import streamlit as st
